@@ -1,0 +1,71 @@
+{
+ "fp32_acc": 91.28999710083008,
+ "rows": [
+  {
+   "method": "all E4M3",
+   "seed": null,
+   "acc": 91.10000133514404,
+   "agree": 96.75999879837036
+  },
+  {
+   "method": "all E5M2",
+   "seed": null,
+   "acc": 89.42999839782715,
+   "agree": 93.58999729156494
+  },
+  {
+   "method": "A range rule",
+   "seed": 0,
+   "acc": 90.83999991416931,
+   "agree": 96.35999798774719
+  },
+  {
+   "method": "B min error",
+   "seed": 0,
+   "acc": 91.18000268936157,
+   "agree": 97.31000065803528
+  },
+  {
+   "method": "C chip-aware",
+   "seed": 0,
+   "acc": 91.21000170707703,
+   "agree": 97.61999845504761
+  },
+  {
+   "method": "A range rule",
+   "seed": 1,
+   "acc": 90.89999794960022,
+   "agree": 96.48000001907349
+  },
+  {
+   "method": "B min error",
+   "seed": 1,
+   "acc": 91.1300003528595,
+   "agree": 97.24000096321106
+  },
+  {
+   "method": "C chip-aware",
+   "seed": 1,
+   "acc": 91.28000140190125,
+   "agree": 97.71000146865845
+  },
+  {
+   "method": "A range rule",
+   "seed": 2,
+   "acc": 90.9500002861023,
+   "agree": 96.42999768257141
+  },
+  {
+   "method": "B min error",
+   "seed": 2,
+   "acc": 91.20000004768372,
+   "agree": 97.35999703407288
+  },
+  {
+   "method": "C chip-aware",
+   "seed": 2,
+   "acc": 91.1899983882904,
+   "agree": 97.7400004863739
+  }
+ ]
+}

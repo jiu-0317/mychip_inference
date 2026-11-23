@@ -1,0 +1,125 @@
+{
+ "fp32_acc": 91.28999710083008,
+ "rows": [
+  {
+   "method": "uniform E4M3/E4M3/E4M3",
+   "seed": null,
+   "acc": 91.07000231742859,
+   "agree": 97.61999845504761
+  },
+  {
+   "method": "uniform E4M3/E4M3/E5M2",
+   "seed": null,
+   "acc": 90.86999893188477,
+   "agree": 97.33999967575073
+  },
+  {
+   "method": "uniform E4M3/E5M2/E4M3",
+   "seed": null,
+   "acc": 91.0099983215332,
+   "agree": 96.82999849319458
+  },
+  {
+   "method": "uniform E4M3/E5M2/E5M2",
+   "seed": null,
+   "acc": 91.01999998092651,
+   "agree": 96.52000069618225
+  },
+  {
+   "method": "uniform E5M2/E4M3/E4M3",
+   "seed": null,
+   "acc": 90.81000089645386,
+   "agree": 96.46000266075134
+  },
+  {
+   "method": "uniform E5M2/E4M3/E5M2",
+   "seed": null,
+   "acc": 90.79999923706055,
+   "agree": 96.09000086784363
+  },
+  {
+   "method": "uniform E5M2/E5M2/E4M3",
+   "seed": null,
+   "acc": 90.27000069618225,
+   "agree": 95.92000246047974
+  },
+  {
+   "method": "uniform E5M2/E5M2/E5M2",
+   "seed": null,
+   "acc": 90.35000205039978,
+   "agree": 95.55000066757202
+  },
+  {
+   "method": "layer   B min error",
+   "seed": 0,
+   "acc": 90.96999764442444,
+   "agree": 97.39999771118164
+  },
+  {
+   "method": "layer   C output",
+   "seed": 0,
+   "acc": 90.9600019454956,
+   "agree": 97.53000140190125
+  },
+  {
+   "method": "channel B min error",
+   "seed": 0,
+   "acc": 91.01999998092651,
+   "agree": 97.680002450943
+  },
+  {
+   "method": "channel C output",
+   "seed": 0,
+   "acc": 91.07000231742859,
+   "agree": 97.99000024795532
+  },
+  {
+   "method": "layer   B min error",
+   "seed": 1,
+   "acc": 90.96999764442444,
+   "agree": 97.39999771118164
+  },
+  {
+   "method": "layer   C output",
+   "seed": 1,
+   "acc": 90.9600019454956,
+   "agree": 97.53000140190125
+  },
+  {
+   "method": "channel B min error",
+   "seed": 1,
+   "acc": 91.01999998092651,
+   "agree": 97.71999716758728
+  },
+  {
+   "method": "channel C output",
+   "seed": 1,
+   "acc": 91.22999906539917,
+   "agree": 97.9200005531311
+  },
+  {
+   "method": "layer   B min error",
+   "seed": 2,
+   "acc": 90.96999764442444,
+   "agree": 97.39999771118164
+  },
+  {
+   "method": "layer   C output",
+   "seed": 2,
+   "acc": 90.9600019454956,
+   "agree": 97.53000140190125
+  },
+  {
+   "method": "channel B min error",
+   "seed": 2,
+   "acc": 91.06000065803528,
+   "agree": 97.71999716758728
+  },
+  {
+   "method": "channel C output",
+   "seed": 2,
+   "acc": 91.24000072479248,
+   "agree": 97.94999957084656
+  }
+ ]
+}
